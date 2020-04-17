@@ -1,0 +1,9 @@
+Funcion Cambio(importe, DinRecibido, ListadeDenom)
+		Cambio = DinRecibido - importe
+		Repetir hata i = NumdeDenom
+			Escribir Cambio
+			Billetesx = Camio/Denominacion (Eliminar fracciones)
+			Cambio = Cambio%Denominacion
+			Esccribir Billetesx, Denominacion
+		Escribir Cambio  
+	Fin de la funcion Cambio.
