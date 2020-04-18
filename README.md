@@ -32,7 +32,7 @@ print(Cambio)
 ```
 ## Resultado
  ```python
-1856.5
+	1856.5
 	3 500
 	356.5
 	1 200
